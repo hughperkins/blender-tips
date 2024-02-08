@@ -1,6 +1,13 @@
 # blender-tips
 blender-tips
 
+# Bake fluid on commandline:
+
+```
+/Applications/Blender.app/Contents/MacOS/Blender --background ~/BlenderFiles/test_render1.blend --python bake.py
+```
+(`bake.py` is in this repo)
+
 # Render frame on commandline:
 
 ```
